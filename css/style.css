@@ -1,0 +1,13 @@
+.bg-color{background-color:red;}
+.round{border-radius: 5px;}
+.bold{font-weight: bold;}
+.bold1{font-weight: 900;}
+.body{margin: 0; padding: 0;}
+.gold{color: gold;}
+.gold1{color: gold;}
+.light-text{font-weight: lighter;}
+.button{width: 80%;height: 50%;font-size: 202%;font-weight: 600;font-family: sans-serif;border-radius: 4%;}
+.col-lg-12.text-center.text-white {padding-top: 38px;}
+.text{color: black;}
+.footer-sec{height: 44px;}
+img.img-fluid.round {margin-top: 44px;}
